@@ -1,0 +1,68 @@
+disk1 = "ABCDEFGHIJKLMNOPQRSTUVXYWZ "
+disk2 = "usqomkhfdbacgeilnprtxz&y@ñ?"
+
+Parameters:
+increment= 2 shift= 5 cycle= 1
+
+MY NAME IS LAWRENCE AND estoy muy feliz
+
+pod@euzrqi@cqsygyirlrhñyot&todyhcn@ñfhñ
+
+encr_char= s
+encr_index= 1 shift= 31
+-30
+encr_char= l
+encr_index= 15 shift= 43
+-28
+encr_char= h
+encr_index= 6 shift= 47
+-41
+encr_char= y
+encr_index= 23 shift= 51
+-28
+encr_char= o
+encr_index= 3 shift= 53
+-50
+encr_char= t
+encr_index= 19 shift= 55
+-36
+encr_char= &
+encr_index= 22 shift= 57
+-35
+encr_char= t
+encr_index= 19 shift= 59
+-40
+encr_char= o
+encr_index= 3 shift= 61
+-58
+encr_char= d
+encr_index= 8 shift= 63
+-55
+encr_char= y
+encr_index= 23 shift= 65
+-42
+encr_char= h
+encr_index= 6 shift= 67
+-61
+encr_char= c
+encr_index= 11 shift= 69
+-58
+encr_char= n
+encr_index= 16 shift= 71
+-55
+encr_char= @
+encr_index= 24 shift= 73
+-49
+encr_char= ñ
+encr_index= 25 shift= 75
+-50
+encr_char= f
+encr_index= 7 shift= 77
+-70
+encr_char= h
+encr_index= 6 shift= 79
+-73
+encr_char= ñ
+encr_index= 25 shift= 81
+-56
+MY NAME IS LA<>RENCE<>A<>D<><><><><><><><><><><><><><><><>
